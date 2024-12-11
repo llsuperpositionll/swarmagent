@@ -8,6 +8,10 @@ or
 
 pip install git+https://github.com/openai/swarm.git
 # Usage
+On Linux:
+
+export OPENAI_API_KEY='API Key from OpenAI'
+
 python weather.py
 
 # Sample query
